@@ -2,13 +2,13 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 .bg-blue {
-    background-color: #3b5998
+    background-color: blue;
 }
 .text-blue {
     color: #3b5998;
 }
 .skill {
-    background-color: #3b5998;
+    background-color: blue;
 }
 .underline {
     border-bottom: 2px solid #3b5998
